@@ -17,12 +17,12 @@ namespace EjercicioPolimorfismo
 
         public virtual void HacerSonido()
         {
-            Console.WriteLine("El animal hace un sonido.");
+            Console.WriteLine("El animal hace un sonido");
         }
 
         public virtual void Moverse()
         {
-            Console.WriteLine("El animal se mueve.");
+            Console.WriteLine("El animal se mueve");
         }
     }
 }
